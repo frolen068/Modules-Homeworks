@@ -1,0 +1,23 @@
+div {
+	border: dashed;
+}
+
+.text {
+	margin-top: 8px;
+}
+
+.formula {
+	font-size: 25px;
+}
+
+sub {
+	color: #0600ff;
+	font-size: 15px;
+	font-style: normal;
+}
+
+sup {
+	color: #fb000f;
+	font-size: 15px;
+	font-style: normal;
+}

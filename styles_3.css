@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', sans-serif;
+}
+
+p {
+	height: 40px;
+}
+
+.one {
+	background-color: #f00;
+	width: 50px;
+}
+
+.two {
+	background-color: #ffa300;
+	width: 100px;
+}
+
+.three {
+	background-color: #4600ff;
+	width: 150px;
+}
